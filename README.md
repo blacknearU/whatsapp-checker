@@ -10,4 +10,8 @@ step 4 :- then a firefox window open then you login with your whatsapp.
 step 5 :- then press enter in the terminal and path of txt file who contain the numbers without +91
 now it automatic save the results.
 
+commands :- pip install selenium
+pip install requests
+python3 wapy.py
+
 To join our community ib tg:- @BlackNearU
